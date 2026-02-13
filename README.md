@@ -214,3 +214,12 @@ Esse é o padrão usado em:
 - Processamento de imagens  
 - Integrações com APIs externas  
 - Filas de microserviços  
+
+---
+
+# 👨‍💻 Autor
+
+**Orlando Conceição**  
+Back-end Developer  
+
+📧 Contato: orlandoconceicao94@gmail.com  
