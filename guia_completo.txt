@@ -1,3 +1,9 @@
+===========================================
+GUIA COMPLETO DE ESTUDO - CELERY + DJANGO
+Autor: Orlando Conceição
+===========================================
+
+COMANDOS INICIAIS
 -Rodar Django
     python manage.py runserver
 
@@ -11,11 +17,6 @@
 - Monitoramento com Flower
     Rodar:
         celery -A meu_projeto flower
-
-===========================================
-GUIA COMPLETO DE ESTUDO - CELERY + DJANGO
-Autor: Orlando Conceição
-===========================================
 
 ESTRUTURA DO PROJETO
 
