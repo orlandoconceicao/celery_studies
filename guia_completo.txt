@@ -14,6 +14,7 @@
 
 ===========================================
 GUIA COMPLETO DE ESTUDO - CELERY + DJANGO
+Autor: Orlando Conceição
 ===========================================
 
 ESTRUTURA DO PROJETO
